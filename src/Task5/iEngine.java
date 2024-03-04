@@ -1,2 +1,5 @@
-package Task5;public interface iEngine {
+package Task5;
+
+public interface iEngine {
+    public void start();
 }
