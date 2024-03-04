@@ -1,6 +1,6 @@
 package Task3;
 
-public class Cube implements Shape {
+public class Cube implements Shape, ThreeDShape {
     private int edge;
 
     public Cube(int edge) {
